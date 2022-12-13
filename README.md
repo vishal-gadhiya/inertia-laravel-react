@@ -1,4 +1,4 @@
-# Laravel + React (Inertia.js)
+# Inertia.js (Laravel + React.js)
 
 ## Required :
 
